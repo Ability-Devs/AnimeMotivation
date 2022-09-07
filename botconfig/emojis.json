@@ -1,0 +1,78 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "<a:no:1012877209721131109>",
+    "SUCCESS" : "<:verified:995711105395597434>",
+
+    "disabled" : "<a:no:1012877209721131109>",
+    "enabled" : "<a:yes:1012877091383025724>",
+
+    "progress_bar": {
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "⬜",
+      "filledframe": "🟧"
+    },
+
+    "playing": "🎶",
+    "pruning": "💬",
+    "equalizer": "🎚",
+    "cleared": "🗑",
+    "leave_on_empty": "🗣️",
+    "time": "⌛",
+    "premium": "💰",
+    "song_by": "💯",
+    "setup": "⚙️",
+    "dj": "🎧",
+    "bot": "🤖",
+    "search": "<:emoji_24:1006471945363144734>",
+    "resume": "<:emoji_6:995519228096561153>",
+    "pause": "<:emoji_16:1006255536913793184>",
+    "lyrics": "<:emoji_19:1006264031511846972>",
+    "disk": "📀",
+    "ping": "🏓",
+
+    "rewind": "⏪",
+    "forward": "⏩",
+    "pause_resume": "⏯️",
+    "stop": "⏹️",
+    "previous_track": "<:emoji_20:1006264461092470814>",
+    "skip_track": "<:emoji_21:1006264596941766756>",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "<:emoji_15:1006255467128946781>",
+    "autoplay_mode": "♾",
+    "shuffle": "<:emoji_18:1006262453224603709>",
+    "show_queue": "<:emoji_4:995518947212414986>",
+    "show_current_track": "🩸"
+  },
+  "react": {
+
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE JUST THE ID IN REACT, EXAMPLE: ⏪ --> 818558865268408341",
+
+    "ERROR" : "<a:no:1012877209721131109>",
+    "SUCCESS" : "<:checked:981462203469279272>",
+
+
+    "rewind": "<:emoji_20:1006264461092470814>",
+    "forward": "<:emoji_21:1006264596941766756>",
+    "pause_resume": "⏯️",
+    "stop": "<:emoji_16:1006255536913793184>",
+    "previous_track": "<:emoji_20:1006264461092470814>",
+    "skip_track": "<:emoji_21:1006264596941766756>",
+    "replay_track": "🔃",
+    "reduce_volume": "🔉",
+    "raise_volume": "🔊",
+    "toggle_mute": "🔇",
+    "repeat_mode": "<:emoji_15:1006255467128946781>",
+    "autoplay_mode": "♾",
+    "shuffle": "<:emoji_18:1006262453224603709>",
+    "show_queue": "<:emoji_4:995518947212414986>",
+    "show_current_track": "🩸"
+  }
+
+}
